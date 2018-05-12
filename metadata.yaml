@@ -1,0 +1,39 @@
+_repo: Pleasant-Journey_29790
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schelling, George
+    aliases:
+    - Schelling, George L.
+    - Schelling
+    - Schelling, George Luther
+    birthdate: 1938
+    gutenberg_agent_id: '25425'
+    url: http://www.gutenberg.org/2009/agents/25425
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thieme, Richard
+    alias: Thieme, Richard F.
+    birthdate: 1944
+    gutenberg_agent_id: '34185'
+    url: http://www.gutenberg.org/2009/agents/34185
+    wikipedia: https://en.wikipedia.org/wiki/Richard_Thieme
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2009-08-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29790'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+title: Pleasant Journey
+url: http://www.gutenberg.org/ebooks/29790
