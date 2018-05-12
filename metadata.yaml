@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34185
     wikipedia: https://en.wikipedia.org/wiki/Richard_Thieme
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29790#Pleasant-Journey
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-08-25'
 gutenberg_type: Text
